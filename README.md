@@ -10,7 +10,7 @@ This repository contains the implementation of a high-throughput Large Language 
 
 * **Efficient Resource Usage:** Leveraged 4-bit quantization to drastically reduce memory footprint without sacrificing generative accuracy.
 
-* **Advanced Contextual Retrieval:** Utilized a combination of Graph RAG and Hybrid Retrieval mechanisms to fetch highly relevant background context prior to generation.
+* **Advanced Contextual Retrieval:** Utilized a combination of Hybrid Retrieval mechanisms to fetch highly relevant background context prior to generation.
 
 ## Architecture & Pipeline Strategy
 
